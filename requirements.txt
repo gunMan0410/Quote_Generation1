@@ -1,0 +1,10 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes 
+sentence_transformers
+llama-index
+logging
+sys
+torch
